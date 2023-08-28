@@ -1,2 +1,2 @@
-# lab-1
+# lab
 lab 1 assignment
